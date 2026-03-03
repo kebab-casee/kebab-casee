@@ -30,5 +30,5 @@ Currently deepening my knowledge in frontend architecture, distributed systems, 
 <h2>Profile Views</h2>
 
 <p align="left">
-  <img src="https://count.getloli.com/@booru-twifanartsfw?name=booru-twifanartsfw&theme=booru-twifanartsfw&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=29302&prefix=0" />
+  <img src="https://count.getloli.com/@kebab-casee?name=kebab-casee&theme=booru-twifanartsfw&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=29302&prefix=0" />
 </p>
