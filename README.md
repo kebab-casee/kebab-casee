@@ -14,6 +14,8 @@ Mostly just exploring and learning, one step at a time.
     <img src="https://skillicons.dev/icons?i=vue" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=pinia" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=html" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=css" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="80" height="80" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="90"/>
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="90"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80"/>
@@ -26,6 +28,7 @@ Mostly just exploring and learning, one step at a time.
   <img src="https://skillicons.dev/icons?i=git" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=npm" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=powershell" width="80" height="80" />
 </div>
 
 ---
