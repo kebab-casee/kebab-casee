@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
-Just a tech-savvy person who likes tinkering with Linux, learning a bit about networking, and playing around with web development.  
+Just a tech-savvy person who likes exploring with Linux, learning a bit about networking, and playing around with web development.  
 
 I enjoy figuring out how things work under the hood from operating systems to basic networks and building small web projects.  
 
